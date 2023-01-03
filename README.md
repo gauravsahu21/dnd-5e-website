@@ -2,7 +2,7 @@
 
 ### Getting Started:
 
-Check under the "projects" tab to view the list of tasks that need to be complete.
+Check under the "projects" tab to view the list of tasks that need to be complete. If you are working on a task, change it to "In Progress", and once it is complete change it to "Done". Feel free to add tasks you think need to be done, just be kind and include a short description of it.
 
 Review my (Frank's) wireframe pdf in the *wireframes* folder for how the website should generally look and be organized. If you feel like you have an idea that works better, try it out! Nothing right now is set in stone, so experimentation is encouraged!
 
